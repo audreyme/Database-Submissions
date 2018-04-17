@@ -1,0 +1,6 @@
+Assignment 8
+Audrey Meadows
+
+1.) Customers(SSNo, name, addr, phone)  primary key: SSNo
+Flights(number, day, aircraft)          primary key: number, day
+Bookings(row, seat, SSNo, number, day)  primary key: SSNo, number, day
